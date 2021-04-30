@@ -1,0 +1,70 @@
+marquee{
+	color: white;
+	font-size: 5rem;
+	background-color:lightskyblue;
+	font-family: algerian;
+	border-radius: 40px;
+	border:solid;
+	border-color: 
+	
+
+}
+
+h3{
+	font-size: 1.5rem;
+	font-family: rockwell;
+}
+
+p{
+	font-family: consolas;
+	font-size: 1rem
+
+}
+
+.itac img{
+	height: 150px;
+	width: 140px;
+	float: left;
+	margin-left: 30px;
+	margin-right: 25px;
+	display: inline-block;
+
+}
+
+.chiapas img{
+	height: 135px;
+	width: 145px;
+	float: right;
+	margin-right: 30px;
+	margin-left: 25px;
+	display: inline-block;
+}
+
+.datos{
+	font-size: 3.5rem;
+}
+
+.efectos img{
+	border-style: dotted;
+	transition: all 0.5s linear;
+	cursor: pointer;
+}
+
+.efectos img:hover{
+   transform: scale(0.6);
+   border-radius: 30px;
+}
+
+.logo img{
+	border-radius: 10px;
+
+}
+
+body{
+	background-image:url(https://st3.depositphotos.com/7530824/12606/i/600/depositphotos_126068402-stock-photo-gradient-splattered-rainbow-background-hand.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+
+}
